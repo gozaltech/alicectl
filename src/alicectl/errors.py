@@ -1,0 +1,2 @@
+class AlicectlError(Exception):
+    pass
